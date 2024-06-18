@@ -4,3 +4,4 @@ I am adding another line to here
 Adding another line to this file
 This line will be added to the staging area
 This line will appear when I specify HEAD
+line to test fetching
